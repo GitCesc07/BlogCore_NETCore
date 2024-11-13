@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\curso-c#-mvc\\BlogCore\\",
+  "WorkspaceRootPath": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|c:\\users\\user\\downloads\\curso-c#-mvc\\blogcore\\blogcore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|e:\\c#\\curso-c#-backend\\blogcore_netcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|e:\\c#\\curso-c#-backend\\blogcore_netcore\\blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|e:\\c#\\curso-c#-backend\\blogcore_netcore\\blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DC99EC1-55E7-4149-A2CD-6BD2CFCD6CCD}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\curso-c#-mvc\\BlogCore\\BlogCore\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\curso-c#-mvc\\BlogCore\\BlogCore\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BlogCore\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:21:11.172Z",
+              "WhenOpened": "2024-11-13T19:17:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:16:11.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\C#\\curso-C#-backend\\BlogCore_NETCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:15:17.938Z",
               "EditorCaption": ""
             }
           ]
